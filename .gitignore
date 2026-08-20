@@ -1,0 +1,11 @@
+# Simply Static temporary files
+wp-content/uploads/simply-static/temp-files/
+
+# Simply Static generated export folders
+wp-content/uploads/wp-static-html-output*/
+
+# Temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
