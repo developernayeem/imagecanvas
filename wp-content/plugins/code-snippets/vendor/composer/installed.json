@@ -135,7 +135,7 @@
             },
             "funding": [
                 {
-                    "url": "https://packagist.com/",
+                    "url": "https://packagist.com",
                     "type": "custom"
                 },
                 {
@@ -199,12 +199,12 @@
                 {
                     "name": "Typist Tech",
                     "email": "imposter@typist.tech",
-                    "homepage": "https://typist.tech/"
+                    "homepage": "https://typist.tech"
                 },
                 {
                     "name": "Tang Rufus",
                     "email": "tangrufus@gmail.com",
-                    "homepage": "https://typist.tech/",
+                    "homepage": "https://typist.tech",
                     "role": "Developer"
                 }
             ],
@@ -289,12 +289,12 @@
                 {
                     "name": "Typist Tech",
                     "email": "imposter-plugin@typist.tech",
-                    "homepage": "https://www.typist.tech/"
+                    "homepage": "https://www.typist.tech"
                 },
                 {
                     "name": "Tang Rufus",
                     "email": "tangrufus@gmail.com",
-                    "homepage": "https://www.typist.tech/",
+                    "homepage": "https://www.typist.tech",
                     "role": "Developer"
                 }
             ],
